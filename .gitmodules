@@ -1,0 +1,6 @@
+[submodule "swiggy_clone"]
+	path = swiggy_clone
+	url = https://github.com/ayush1207/swiggy_clone.git
+[submodule "clones_insta"]
+	path = clones_insta
+	url = https://github.com/ayush1207/insta_clone.git
